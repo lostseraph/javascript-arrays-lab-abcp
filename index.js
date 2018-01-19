@@ -36,4 +36,3 @@ function removeLastKitten() {
   return kittens2
 }
 
-learn destructivelyRemoveFirstKitten
